@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  I have 1+ years of experience in iOS development, and I am also interested in full-stack development.
+  I have 1+ years of professional experience in iOS development, and I am also interested in full-stack development.
 </p>
 
 <div>
