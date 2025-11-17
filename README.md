@@ -1,4 +1,4 @@
-<h1>Hello</h1>
+<h1>Samet Çağrı Aktepe</h1>
 
 <p>
   <a href="https://www.linkedin.com/in/sametcagriaktepe/" target="_blank">
@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  Currently working/studying on iOS Development.
+  I have 1+ years of experience in iOS development, and I am also interested in full-stack development.
 </p>
 
 <div>
